@@ -1,0 +1,15 @@
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.exe
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.deps.json
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.runtimeconfig.json
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.dll
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\bin\Debug\net6.0\LinqInParallel.pdb
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.csproj.AssemblyReference.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.AssemblyInfoInputs.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.AssemblyInfo.cs
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.csproj.CoreCompileInputs.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.dll
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\refint\LinqInParallel.dll
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.pdb
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\LinqInParallel.genruntimeconfig.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter11\LinqInParallel\obj\Debug\net6.0\ref\LinqInParallel.dll

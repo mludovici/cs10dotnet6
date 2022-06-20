@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "E9lObkFZ0drwbb7IdqMvPZe0DQ9bEM7LQJN3jU1YKIU=",
+  "Source": "PracticalApps",
+  "BasePath": "_content/PracticalApps",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PracticalApps\\wwwroot",
+      "Source": "PracticalApps",
+      "ContentRoot": "C:\\Users\\ludov\\Desktop\\cs10dotnet6\\vscode\\Chapter13\\PracticalApps\\wwwroot\\",
+      "BasePath": "_content/PracticalApps",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ludov\\Desktop\\cs10dotnet6\\vscode\\Chapter13\\PracticalApps\\wwwroot\\index.html",
+      "SourceId": "PracticalApps",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ludov\\Desktop\\cs10dotnet6\\vscode\\Chapter13\\PracticalApps\\wwwroot\\",
+      "BasePath": "_content/PracticalApps",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

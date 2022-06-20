@@ -1,0 +1,15 @@
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.exe
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.deps.json
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.runtimeconfig.json
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.AssemblyReference.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\refint\SynchronizingResourceAccess.dll
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.genruntimeconfig.cache
+C:\Users\ludov\Desktop\cs10dotnet6\vscode\Chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\ref\SynchronizingResourceAccess.dll
