@@ -10,9 +10,9 @@ using static System.Console;
 
 WriteLine($"Using {ProjectConstants.DatabaseProvider} database provider.");
 
-QueryingCategories();
+// QueryingCategories();
 // FilteredIncludes();
-// QueryingProducts();
+ QueryingProducts();
 // QueryingWithLike();
 
 /*
@@ -41,7 +41,7 @@ WriteLine($"{deleted} product(s) were deleted.");
 
 static void QueryingCategories()
 {
-  using (Northwind db = new())
+  using (Northwind db = new Northwind())
   {
     ILoggerFactory loggerFactory = db.GetService<ILoggerFactory>();
     loggerFactory.AddProvider(new ConsoleLoggerProvider());
@@ -135,7 +135,7 @@ static void QueryingProducts()
   {
     ILoggerFactory loggerFactory = db.GetService<ILoggerFactory>();
     loggerFactory.AddProvider(new ConsoleLoggerProvider());
-
+    
     WriteLine("Products that cost more than a price, highest at top.");
     string? input;
     decimal price;

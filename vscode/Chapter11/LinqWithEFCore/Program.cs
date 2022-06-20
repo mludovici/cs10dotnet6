@@ -2,7 +2,14 @@
 using Microsoft.EntityFrameworkCore; // DbSet<T>
 using System.Xml.Linq;
 
+using Microsoft.Extensions.Logging;
 using static System.Console;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using Microsoft.EntityFrameworkCore.ChangeTracking; // CollectionEntry
+using Microsoft.EntityFrameworkCore.Storage; // IDbContextTransaction
+
 
 FilterAndSort();
 // JoinCategoriesAndProducts();
@@ -16,6 +23,10 @@ static void FilterAndSort()
 {
   using (Northwind db = new())
   {
+
+    ILoggerFactory loggerFactory = db.GetService<ILoggerFactory>();
+    loggerFactory.AddProvider(new ConsoleLoggerProvider());
+    
     DbSet<Product>? allProducts = db.Products;
 
     if (allProducts is null)
@@ -24,11 +35,13 @@ static void FilterAndSort()
       return;
     }
 
+
     IQueryable<Product> processedProducts = allProducts
       .ProcessSequence();
 
+
     IQueryable<Product> filteredProducts = processedProducts
-      .Where(product => product.UnitPrice < 10M);
+      .Where(product => product.UnitPrice < 9);
 
     IOrderedQueryable<Product> sortedAndFilteredProducts =
       filteredProducts.OrderByDescending(product => product.UnitPrice);

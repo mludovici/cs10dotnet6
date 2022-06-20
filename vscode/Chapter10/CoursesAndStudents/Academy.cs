@@ -17,9 +17,9 @@ public class Academy : DbContext
 
     WriteLine($"Using {path} database file.");
 
-    // optionsBuilder.UseSqlite($"Filename={path}");
+     optionsBuilder.UseSqlite($"Filename={path}");
 
-    optionsBuilder.UseSqlServer(@"Data Source=.;Initial Catalog=Academy;Integrated Security=true;MultipleActiveResultSets=true;");
+   // optionsBuilder.UseSqlServer(@"Data Source=.;Initial Catalog=Academy;Integrated Security=true;MultipleActiveResultSets=true;");
   }
 
   protected override void OnModelCreating(ModelBuilder modelBuilder)

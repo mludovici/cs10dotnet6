@@ -15,14 +15,14 @@ public class Northwind : DbContext
     string path = Path.Combine(
       Environment.CurrentDirectory, "Northwind.db");
 
-    // optionsBuilder.UseSqlite($"Filename={path}");
+    optionsBuilder.UseSqlite($"Filename={path}");
 
-    string connection = "Data Source=.;" +
-        "Initial Catalog=Northwind;" +
-        "Integrated Security=true;" +
-        "MultipleActiveResultSets=true;";
+    //string connection = "Data Source=.;" +
+        // "Initial Catalog=Northwind;" +
+        // "Integrated Security=true;" +
+        // "MultipleActiveResultSets=true;";
 
-    optionsBuilder.UseSqlServer(connection);
+   // optionsBuilder.UseSqlServer(connection);
   }
 
   protected override void OnModelCreating(

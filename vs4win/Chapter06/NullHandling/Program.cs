@@ -19,6 +19,7 @@ address.Building = null;
 address.Street = null;
 address.City = "London";
 address.Region = null;
+Console.WriteLine($"Adress Region: {address.Region}");
 
 // Checking for null
 
@@ -38,8 +39,8 @@ WriteLine(result);
 
 class Address
 {
-  public string? Building;
-  public string Street = string.Empty;
-  public string City = string.Empty;
-  public string Region = string.Empty;
+	public string? Building;
+	public string Street = string.Empty;
+	public string City = string.Empty;
+	public string Region = string.Empty;
 }

@@ -13,7 +13,7 @@ IEnumerable<int> numbers = Enumerable.Range(start: 1, count: max);
 
 WriteLine($"Calculating Fibonacci sequence up to {max}. Please wait...");
 
-//int[] fibonacciNumbers = numbers
+// int[] fibonacciNumbers = numbers
 //  .Select(number => Fibonacci(number)).ToArray();
 
 int[] fibonacciNumbers = numbers.AsParallel()
